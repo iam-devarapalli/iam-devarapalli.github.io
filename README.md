@@ -15,7 +15,30 @@ Hands-on experience with Android, Kotlin and React Native, alongside AI/ML proje
 
 Completed M.S in Computer Science specialising in AI & ML through Scaler Neovarsity / Woolf University.
 
-Working towards AI architecture and forward deployed engineering roles, with a particular interest in healthcare
+Working towards AI architecture and forward deployed engineering roles, with a particular interest in healthcare.
+
+
+**| Area | Technologies and topics |**
+
+
+| Programming | Python, Kotlin, JavaScript, TypeScript |
+
+| Mobile engineering | Android, Jetpack Compose, React Native, Clean Architecture, Hilt |
+
+| Data analysis | pandas, NumPy, SciPy, Matplotlib, Seaborn |
+
+| Machine learning | scikit-learn, regression, classification, clustering, recommendation systems |
+
+| Deep learning & NLP | TensorFlow, PyTorch, text classification, embeddings, attention |
+
+| Generative AI | LLMs, RAG, prompt engineering, agentic AI |
+
+| APIs & applications | FastAPI, Flask, Streamlit |
+
+| Cloud & MLOps | AWS S3, ECR, ECS/Fargate, SageMaker, Docker, MLflow, GitHub Actions |
+
+| Data platforms | SQL, BigQuery, PySpark |
+
 
 **Let's connect**
 
