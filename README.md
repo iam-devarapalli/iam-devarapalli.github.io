@@ -18,26 +18,12 @@ Completed M.S in Computer Science specialising in AI & ML through Scaler Neovars
 Working towards AI architecture and forward deployed engineering roles, with a particular interest in healthcare.
 
 
-**| Area | Technologies and topics |**
+
+**Tech Stack**
+
+*** ** **Programming:** Python, Kotlin, JavaScript, TypeScript.
 
 
-#Programming | Python, Kotlin, JavaScript, TypeScript.
-
-#Mobile engineering | Android, React Native.
-
-#Data analysis | pandas, NumPy, SciPy, Matplotlib, Seaborn.
-
-#Machine learning | scikit-learn, regression, classification, clustering, recommendation systems |
-
-#Deep learning & NLP | TensorFlow, PyTorch, text classification, embeddings, attention |
-
-#enerative AI | LLMs, RAG, prompt engineering, agentic AI |
-
-#APIs & applications | FastAPI, Flask, Streamlit |
-
-#Cloud & MLOps | AWS S3, ECR, ECS/Fargate, SageMaker, Docker, MLflow, GitHub Actions |
-
-#Data platforms | SQL, BigQuery, PySpark |
 
 
 **Let's connect**
