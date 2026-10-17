@@ -16,3 +16,10 @@ Hands-on experience with Android, Kotlin and React Native, alongside AI/ML proje
 Completed M.S in Computer Science specialising in AI & ML through Scaler Neovarsity / Woolf University.
 
 Working towards AI architecture and forward deployed engineering roles, with a particular interest in healthcare
+
+**Let's connect**
+
+I'm interested in collaborating on applied AI, healthcare technology and intelligent applications.
+
+
+_Engineering experience. Continuous learning. Intelligent applications._
