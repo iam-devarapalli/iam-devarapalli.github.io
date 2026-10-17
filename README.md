@@ -21,23 +21,23 @@ Working towards AI architecture and forward deployed engineering roles, with a p
 **| Area | Technologies and topics |**
 
 
-| Programming | Python, Kotlin, JavaScript, TypeScript |
+#Programming | Python, Kotlin, JavaScript, TypeScript.
 
-| Mobile engineering | Android, Jetpack Compose, React Native, Clean Architecture, Hilt |
+#Mobile engineering | Android, React Native.
 
-| Data analysis | pandas, NumPy, SciPy, Matplotlib, Seaborn |
+#Data analysis | pandas, NumPy, SciPy, Matplotlib, Seaborn.
 
-| Machine learning | scikit-learn, regression, classification, clustering, recommendation systems |
+#Machine learning | scikit-learn, regression, classification, clustering, recommendation systems |
 
-| Deep learning & NLP | TensorFlow, PyTorch, text classification, embeddings, attention |
+#Deep learning & NLP | TensorFlow, PyTorch, text classification, embeddings, attention |
 
-| Generative AI | LLMs, RAG, prompt engineering, agentic AI |
+#enerative AI | LLMs, RAG, prompt engineering, agentic AI |
 
-| APIs & applications | FastAPI, Flask, Streamlit |
+#APIs & applications | FastAPI, Flask, Streamlit |
 
-| Cloud & MLOps | AWS S3, ECR, ECS/Fargate, SageMaker, Docker, MLflow, GitHub Actions |
+#Cloud & MLOps | AWS S3, ECR, ECS/Fargate, SageMaker, Docker, MLflow, GitHub Actions |
 
-| Data platforms | SQL, BigQuery, PySpark |
+#Data platforms | SQL, BigQuery, PySpark |
 
 
 **Let's connect**
