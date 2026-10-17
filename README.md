@@ -21,12 +21,24 @@ Working towards AI architecture and forward deployed engineering roles, with a p
 
 **Tech Stack**
 
-*** ** **Programming:** Python, Kotlin, JavaScript, TypeScript.
+* **Programming:** Python, Kotlin, JavaScript, TypeScript.
+  
+* **Mobile TechNologies:** Android, React Native.
+  
+* **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn.
+  
+* **Machine Learning:** Scikit-learn, Regression, Logistic, Classification, Clustering, Recommendation Systems.
+* **DeepLearning & NLP:** TensorFlow, PyTorch, Text Classification, Embeddings.
+* **Generative AI:** LLMs, RAG, Prompt Engineering, Agentic AI.
+* **API & Applications:** FastAPI, Streamlit.
+* **Cloud & MLOps:**  AWS S3, ECR, ECS/Fargate, SageMaker, Docker, MLflow, GitHub Actions.
+* **Data platforms:** SQL, BigQuery, PySpark.
 
 
 
 
 **Let's connect**
+
 
 I'm interested in collaborating on applied AI, healthcare technology and intelligent applications.
 
